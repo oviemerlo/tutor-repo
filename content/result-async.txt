@@ -1,0 +1,1 @@
+Here is the result of write test: Hello this is the first text file AND Hello this is the second text file
